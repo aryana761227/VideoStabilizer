@@ -4,7 +4,7 @@
   numpy
  
  to run the code run this command in terminal:
- # python videoStab.py <video address> <filter type>
+ python videoStab.py video address filter type
  for example:
   python2 videoStab.py ../Output/Vibreated2.avi gauss
   python2 videoStab.py ../Output/Vibrated2.txt kalman
